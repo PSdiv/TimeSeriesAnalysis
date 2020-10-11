@@ -2,4 +2,12 @@
 
 Data: Zillow home prices county level data
 
-Objective of this project is compare several time series forecasting models including aws built in algorithm DEEPAR.
+Objective of this project is to compare several time series forecasting models.
+
+models implemented are,
+1. AR
+2. MA
+3. ARIMA
+4. SARIMAX
+5. DeepAR from AWS
+
